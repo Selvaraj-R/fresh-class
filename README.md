@@ -1,4 +1,4 @@
-# U&sup2; - School Management App
+# fresh-class
 
 ###### Git-hub Link: https://github.com/fwsa-batch-02/u2-school-management-ui
 
